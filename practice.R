@@ -3,6 +3,10 @@
 # Where: University of Michigan, Ann Arbor
 # When: Oct. 18, 2016
 
+#############################################
+
+#Adding a comment for practice
+
 # Packages necessary 
 install.packages(c('RSQLite','dplyr','tidyr','ggplot2'))
 library(RSQLite)
@@ -16,7 +20,7 @@ tables <- dbListTables(conn) #allows us to view database tables in R
 tables
 
 class(tables)
-
+ 
 surveys <- dbGetQuery(conn, 'SELECT * FROM surveys;') #second argument is SQL code
 head(surveys)
 summary(surveys)
