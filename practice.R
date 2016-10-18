@@ -1,7 +1,7 @@
 # What: Software Carpentry Workshop
 # Who: Arthur Endsley & Marian Schmidt
 # Where: University of Michigan, Ann Arbor
-# When: Oct. 18, 2016
+# When: Oct.17-18, 2016
 
 #############################################
 
