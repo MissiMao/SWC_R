@@ -5,7 +5,7 @@
 
 #############################################
 
-#Adding a comment for practice
+#Adding a comment
 
 # Packages necessary 
 install.packages(c('RSQLite','dplyr','tidyr','ggplot2'))
