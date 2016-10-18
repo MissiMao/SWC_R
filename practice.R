@@ -3,6 +3,7 @@
 # Where: University of Michigan, Ann Arbor
 # When: Oct. 18, 2016
 
+# Packages necessary 
 install.packages(c('RSQLite','dplyr','tidyr','ggplot2'))
 library(RSQLite)
 library(dplyr)
